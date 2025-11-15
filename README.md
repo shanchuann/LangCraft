@@ -1,11 +1,11 @@
-# LangCraft
+# ChainReaction
 
-LangCraft 是一个专注于 LangChain 框架的学习与实践仓库，旨在通过代码实现和中文文档，帮助开发者快速掌握相关工具的使用。仓库包含安装指南、基础到进阶的智能体示例及特定场景练习，致力于中文化 LangChain 官方文档核心内容，提供可直接运行的实践案例。
+ChainReaction 是一个专注于 LangChain 框架的学习与实践仓库，旨在通过代码实现和中文文档，帮助开发者快速掌握相关工具的使用。仓库包含安装指南、基础到进阶的智能体示例及特定场景练习，致力于中文化 LangChain 官方文档核心内容，提供可直接运行的实践案例。
 
 ## 仓库结构
 
 ```
-LangCraft/
+ChainReaction/
 ├── Install/           # LangChain 安装指南
 ├── Quickstart/        # 快速入门示例（基础到进阶智能体实现）
 ├── LangChain exercise/ # 特定场景练习
