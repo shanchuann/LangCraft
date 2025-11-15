@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Title: -->
 <img src="https://s2.loli.net/2025/11/15/KHgQ6NPjEUAuVZh.png">
-<h1><div align="center">ChainReaction</h1>
+<h1><div align="center">ChainReaction 链式反应</h1>
 <a href="https://github.com/shanchuann/ChainReaction"><img src="https://img.shields.io/badge/LangChain-Learning-blue?style=flat-square" height="20" alt="LangChain Learning"></a>
 <a href="https://github.com/shanchuann/ChainReaction/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" height="20" alt="MIT License"></a>
 <a href="https://github.com/shanchuann/ChainReaction/blob/main/requirements.txt"><img src="https://img.shields.io/badge/Python-3.7%2B-yellow?style=flat-square" height="20" alt="Python 3.7+"></a>
