@@ -23,12 +23,13 @@ LangChain 是一个开源框架，旨在通过将其与外部数据源和计算�
 
 ```
 ChainReaction/
-├── Install/           # LangChain 安装指南
-├── Quickstart/        # 快速入门示例（基础到进阶智能体实现）
-├── LangChain exercise/ # 特定场景练习
-├── requirements.txt   # 项目依赖清单
-├── LICENSE            # MIT 许可证
-└── .gitignore         # Git 版本控制忽略文件配置
+├── Install/            # LangChain 安装指南
+├── Quickstart/         # 快速入门示例（基础到进阶智能体实现）
+├── Agents/             # 中间件 Agents 示例
+├── InAction/           # 特定场景练习
+├── requirements.txt    # 项目依赖清单
+├── LICENSE             # MIT 许可证
+└── .gitignore          # Git 版本控制忽略文件配置
 ```
 
 ### 核心内容
